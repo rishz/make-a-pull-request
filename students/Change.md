@@ -1,5 +1,5 @@
-# Joshua Raina
+# Ujjval Saini
 
-## 9th Year, CSE
+## 1st Year, CSE Dual NIT Hamirpur
 
-## Java, C , JavaScript
+##  C++ , HTML
