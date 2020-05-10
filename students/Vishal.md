@@ -2,4 +2,4 @@
 
 ## 1st Year, IT
 
-## SE Aspirant, Guitar
+## SE Aspirant
