@@ -1,5 +1,5 @@
-# [Your Name]
+# Lakshya Taragi
 
-## [Your Year and Stream]
+## Ist year ECE
 
-## [Add the languages/frameworks you work on comma separated]
+## JS
