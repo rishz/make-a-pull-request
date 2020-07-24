@@ -1,5 +1,5 @@
-# [Your Name]
+# Ayush kumar
 
-## [Your Year and Stream]
+## 2nd Year,CS
 
-## [Add the languages/frameworks you work on comma separated]
+## C++,HTML
