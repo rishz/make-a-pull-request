@@ -1,5 +1,5 @@
-# [Your Name]
+# [Mayur Rajurkar]
 
-## [Your Year and Stream]
+## [2nd year CSE]
 
-## [Add the languages/frameworks you work on comma separated]
+## [C, C++ , Java ,Python]
