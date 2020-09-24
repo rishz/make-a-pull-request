@@ -1,5 +1,7 @@
 # Love Babbar
+# Rudraksh here with Never Ending Passion for programming
 
-## btech khatam 
+## btech khatam 011011
+## Initialised the working repositipry 
 
-## Youtube
+## JAVA JAVASCRIPT //youtube
