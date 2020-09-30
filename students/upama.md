@@ -2,4 +2,4 @@
 
 ## 1st year , EE , NSEC
 
-## java , web devlopment 
+## java , web devlopment , sql , DS algo
