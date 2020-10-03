@@ -1,3 +1,3 @@
 # Deepak Singh
-## btech chl rha hai
+## 2nd btech Electronics Engineering
 ## java javascript css
