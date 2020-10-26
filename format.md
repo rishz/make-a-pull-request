@@ -1,5 +1,6 @@
-# [Your Name]
+# prabhat gaurav
 
-## [Your Year and Stream]
+## [1st year and Information Technology]
 
-## [Add the languages/frameworks you work on comma separated]
+##[ c,c++,python]
+
