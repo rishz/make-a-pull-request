@@ -1,5 +1,5 @@
-# [Your Name]
+# [Rohit Mathur]
 
-## [Your Year and Stream]
+## [2nd year CS branch]
 
-## [Add the languages/frameworks you work on comma separated]
+## [C++]
