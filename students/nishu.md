@@ -1,0 +1,2 @@
+new student added 
+congrats!
