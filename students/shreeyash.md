@@ -1,4 +1,4 @@
-# shreeyash pednekar
+# shreeyashpednekar
 
 ## 3st Year, CSE
 
