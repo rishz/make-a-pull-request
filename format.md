@@ -1,5 +1,5 @@
-# [Your Name]
+# [ankita]
 
-## [Your Year and Stream]
+## [3rd yr & IT]
 
-## [Add the languages/frameworks you work on comma separated]
+## [python]
