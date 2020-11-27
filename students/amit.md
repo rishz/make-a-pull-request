@@ -1,5 +1,5 @@
-# love babbar
+# Ayush Gour
 
-## 3st Year, CSE
+## 2nd Year, CSE
 
-## c++, JavaScript
+## c++, Java
