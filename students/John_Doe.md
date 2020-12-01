@@ -1,5 +1,5 @@
-# John Doe
+# Lionel Messi
 
-## 1st Year, CSE
+## 4th Year, CSE
 
-## Java, JavaScript
+## Java, C++
