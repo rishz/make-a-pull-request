@@ -1,5 +1,5 @@
-# John Doe
+# Shikhar Gupta 
 
-## 1st Year, CSE
+## 3rd Year, IT
 
-## Java, JavaScript
+## Java
