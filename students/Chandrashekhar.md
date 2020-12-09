@@ -1,5 +1,5 @@
 # Chandrashekhar
 
-## 2st Year, CSE
+## 2nd  Year, CSE
 
 ## Java, 
