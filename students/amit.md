@@ -1,5 +1,6 @@
-# love babbar
+# Singh
 
-## 3st Year, CSE
+## 3rd Year, CSE Student
 
-## c++, JavaScript
+## c++, JavaScript , CSS , HTML
+
