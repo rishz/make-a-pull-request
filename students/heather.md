@@ -1,5 +1,3 @@
-# Heather
-
-# Sophomore, NITH
-
-# C, C++, AppDev
+#Heather
+#Sophomore, NITH
+#C,C++,AppDev
