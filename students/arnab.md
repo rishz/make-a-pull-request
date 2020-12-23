@@ -1,4 +1,4 @@
-# Arnab Basa
+# Arnab Basak
 
 ## 1st Year ECE
 
