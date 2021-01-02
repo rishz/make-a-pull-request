@@ -1,5 +1,5 @@
-# love babbar
+# Anish Rao Kotha
 
-## 3st Year, CSE
+## 1st year btech cse Mahindra University
 
-## c++, JavaScript
+## Java
