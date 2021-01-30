@@ -1,7 +1,7 @@
 Darshan Tank
 
-DDU CE,Gujarat
-.
+DDU CE
+Python Django ^_^ 
 .
 .
 
