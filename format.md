@@ -1,5 +1,3 @@
-# Devanshu Mishra
-
-## 12<sup>th</sup>
-
-## Unity Game Engine, C#, Python
+# [Name]
+## [Education]
+## [Languages and framework you are using]
