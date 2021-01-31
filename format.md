@@ -1,5 +1,3 @@
-# [Your Name]
-
-## [Your Year and Stream]
-
-## [Add the languages/frameworks you work on comma separated]
+# [Name]
+## [Education]
+## [Languages and framework you are using]
