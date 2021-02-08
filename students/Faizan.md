@@ -1,5 +1,0 @@
-# XYZ
-
-## Student
-
-## Python
