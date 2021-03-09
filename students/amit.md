@@ -1,5 +1,5 @@
-# love babbar
+# Mohammed Maaz Waheed
 
-## 3st Year, CSE
+## 1st YEAR , ECE
 
-## c++, JavaScript
+## JAVA , HTML
