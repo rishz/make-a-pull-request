@@ -1,5 +1,5 @@
-# Sanket Harvande
+# Sanket
 
-## 2nd Yr Mumbai University
+## 2nd yr
 
-## Student of CSE
+## comp engineering
