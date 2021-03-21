@@ -1,4 +1,4 @@
-# Sanket H
+# Sanket Harvande
 
 ## BE second year
 
