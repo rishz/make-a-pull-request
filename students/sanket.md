@@ -1,5 +1,5 @@
 # Sanket Harvande
 
-## BE second year
+## 2nd Yr Mumbai University
 
-## Computer Science student
+## Student of CSE
