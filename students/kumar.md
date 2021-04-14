@@ -2,4 +2,5 @@
 
 ## 1st Year, CSE
 
-## Java, JavaScript
+## git and github
+
