@@ -1,5 +1,5 @@
 # Chaitanya
 
-## btech dinal year
+## btech final year
 
 ## Codeforces
