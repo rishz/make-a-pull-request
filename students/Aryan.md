@@ -1,5 +1,5 @@
 # Aryan Patel
 
-## 1st yera btech IT branch
+## 1st year btech IT branch
 
 ## c++ STL
