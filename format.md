@@ -1,5 +1,6 @@
-# [Your Name]
 
-## [Your Year and Stream]
+Prajjaval
 
-## [Add the languages/frameworks you work on comma separated]
+2nd and Cs
+
+C++, HTML, CSS
