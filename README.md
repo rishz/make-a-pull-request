@@ -1,5 +1,5 @@
 # make-a-pull-request
-A repository to teach how to make a Pull Request
+A repository to teach how to make a Pull Request and upload to github. 
 
 ## Steps
 
