@@ -1,5 +1,5 @@
-# raj paliwal
+# raj
 
-## 3rd Year, CSE
+## BCA graduate
 
-## Java, Dart, swift
+## Java, JavaScript html css boostrap
