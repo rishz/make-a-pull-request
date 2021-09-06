@@ -1,5 +1,5 @@
-# [Your Name]
+# [Immanual]
 
-## [Your Year and Stream]
+## [Persiung Btech]
 
-## [Add the languages/frameworks you work on comma separated]
+## [Python ]
