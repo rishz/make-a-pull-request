@@ -2,4 +2,4 @@
 
 ## 4th Year, CSE
 
-## c++, JavaScript
+## c++
