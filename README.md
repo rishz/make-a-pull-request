@@ -1,6 +1,7 @@
 # make-a-pull-request
 A repository to teach how to make a Pull Request
 Hi. This is the first change.
+I am practising git and github.
 
 ## Steps
 
