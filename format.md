@@ -1,5 +1,5 @@
-# [Your Name]
+# [Aman kumar]
 
-## [Your Year and Stream]
+## [CSE]
 
-## [Add the languages/frameworks you work on comma separated]
+## [PYTHON]
