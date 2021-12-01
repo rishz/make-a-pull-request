@@ -1,5 +1,5 @@
-# [Your Name]
+# sethi first commit
 
-## [Your Year and Stream]
+## i will learn opensource definetly
 
 ## [Add the languages/frameworks you work on comma separated]
