@@ -1,4 +1,4 @@
-# John Doe
+# John Deo
 
 ## 1st Year, CSE
 
