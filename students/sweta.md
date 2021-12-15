@@ -2,4 +2,4 @@
 
 ## 2nd Year, IT
 
-## c++, data struture
+## I love to  solve Competitive programming
