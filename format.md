@@ -1,5 +1,5 @@
-# [Your Name]
+# Aviral Saxena
 
-## [Your Year and Stream]
+## 1st year CSE
 
-## [Add the languages/frameworks you work on comma separated]
+## C++ , python
