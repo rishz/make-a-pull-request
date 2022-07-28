@@ -1,5 +1,5 @@
-# [Your Name]
+# Himanshu kumar
 
-## [Your Year and Stream]
+## Diploma complete hahaha
 
-## [Add the languages/frameworks you work on comma separated]
+## Flutter, Dart, Firebase, Rest API
