@@ -1,5 +1,5 @@
-# Love Babbar
+# Prerna
 
-## btech khatam 
+## 2nd year, ECE
 
-## Youtube
+## C++, Web Development
