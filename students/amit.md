@@ -2,4 +2,4 @@
 
 ## 3st Year, CSE
 
-## c++, JavaScript
+## c++, JavaScri
