@@ -1,5 +1,5 @@
-# love babbar
+#tejas_sands
 
-## 3st Year, CSE
+##Trying to do something
 
-## c++, JavaScript
+##BTech NIT DGP
