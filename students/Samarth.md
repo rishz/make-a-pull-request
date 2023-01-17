@@ -1,5 +1,5 @@
 # Samarth Prakash
 
-## Dev Ops
+## Dev Ops 
 
-## AWS Linux
+## AWS, Linux
