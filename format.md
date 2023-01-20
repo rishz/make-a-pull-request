@@ -1,5 +1,5 @@
-# [Your Name]
+# Bhoomi Swarnkar
 
-## [Your Year and Stream]
+## Btech second year
 
-## [Add the languages/frameworks you work on comma separated]
+## c++,python,javascript
