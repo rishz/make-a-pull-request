@@ -1,5 +1,5 @@
-# [Your Name]
+# Deepak jangra
 
-## [Your Year and Stream]
+## 3rd year CSE
 
-## [Add the languages/frameworks you work on comma separated]
+## programmer
