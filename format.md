@@ -1,5 +1,5 @@
-# [Your Name]
+# Ravish Kumar
 
-## [Your Year and Stream]
+## 2nd Year CSE
 
-## [Add the languages/frameworks you work on comma separated]
+## BOOTSTRAP, JQUERY, REACT
