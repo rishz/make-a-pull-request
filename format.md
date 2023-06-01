@@ -1,5 +1,5 @@
 # Kiran
 
-## [Your Year and Stream]
+CS
 
 ## [Add the languages/frameworks you work on comma separated]
