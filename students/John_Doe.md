@@ -2,4 +2,4 @@
 
 ## 1st Year, CSE
 
-## Java, JavaScript
+## java, javascript
