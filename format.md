@@ -1,5 +1,5 @@
-# [Your Name]
+# Amogh
 
-## [Your Year and Stream]
+## 1st year ECE
 
-## [Add the languages/frameworks you work on comma separated]
+## c,c++,python
